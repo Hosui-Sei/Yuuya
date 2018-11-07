@@ -1,2 +1,1 @@
-# Yuuya
-A bot written in Python.
+# Yuuya-2# Yuuya
